@@ -42,8 +42,8 @@ sudo apt install -y \
     libpangox-1.0-0:i386 \
     libpangoxft-1.0-0:i386 \
     libidn11:i386 \
-    python2.7 \
-    python2.7-dev \
+    python3 \
+    python3-dev \
     openjdk-8-jdk \
     unzip \
     zlib1g-dev \
